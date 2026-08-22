@@ -86,6 +86,7 @@ connecting.
 | --- | --- | --- | --- | --- |
 | Google Maps Grounding Lite | [MCP documentation](https://developers.google.com/maps/ai/grounding-lite) (`https://mapstools.googleapis.com/mcp`, Streamable HTTP) | Search places, look up current and forecast weather, and compute walking or driving route distance and duration | Google Maps API key or OAuth; Google Cloud project and billing setup required | `official` `maps` `routing` |
 | Mapbox | [MCP server documentation](https://docs.mapbox.com/api/guides/mcp-server/) (`https://mcp.mapbox.com/mcp`, Streamable HTTP) | Directions, isochrones, address and point-of-interest lookup, reverse geocoding, static maps, and geospatial resources | Mapbox OAuth for the hosted server or an access token for local deployment | `official` `geocoding` `navigation` |
+| Pocket Drives | [Official source repository](https://github.com/RevList/pocket-drives-mcp) (`https://pocketdrives.ai/mcp`, Streamable HTTP) | Search peer-to-peer luxury, exotic, and EV rentals from independent hosts; vehicle details, availability calendars, and quotes | None | `official` `travel` `rentals` |
 
 ### Finance and Commerce
 
