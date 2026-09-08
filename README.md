@@ -183,6 +183,7 @@ connecting.
 | Hugging Face | [MCP server documentation](https://huggingface.co/docs/hub/en/agents-mcp) (`https://huggingface.co/mcp`, remote HTTP) | Search models, datasets, Spaces, papers, and documentation; run Jobs and sandboxes; use community Spaces tools | Hugging Face account; client-specific setup is generated in MCP settings | `official` `models` `datasets` |
 | LangSmith | [MCP server documentation](https://docs.langchain.com/langsmith/langsmith-mcp-server) (`https://langsmith-mcp-server.onrender.com/mcp`, HTTP) | Conversation history, prompts, traces and runs, projects, datasets, experiments, evaluations, and billing usage | LangSmith API key in the `LANGSMITH-API-KEY` header; workspace and endpoint headers are optional | `official` `evaluation` `tracing` |
 | Replicate | [MCP server documentation](https://replicate.com/docs/reference/mcp) (`https://mcp.replicate.com/sse`, SSE) | Discover and compare models, inspect model metadata, and create and manage predictions through Replicate's API | Replicate OAuth or API token | `official` `models` `inference` |
+| RunAPI | [Hosted MCP setup](https://runapi.ai/mcp) ([official source repository](https://github.com/runapi-ai/mcp); `https://mcp.runapi.ai/mcp`, Streamable HTTP) | Browse model inputs and pricing; create and monitor image, video, music, speech, and other model API jobs | RunAPI OAuth or API key for task creation; catalog, model details, pricing, and prompt search require no authentication | `official` `models` `multimodal` |
 
 ### Data and Databases
 
