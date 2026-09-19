@@ -94,6 +94,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 | AgentServices | [MCP details](https://agentservices.to) (`https://api.agentservices.to/mcp`) | x402-paid crypto and market data APIs - BTC indicators, DeFi stats, macro data, exchange analytics, 54 services, and 37 MCP tools | No API key; x402 USDC payment for paid tools | `official` `market-data` `crypto` |
 | Aperture Wallet Knowledge | [Official source and connection guide](https://github.com/devdasx/aperture#model-context-protocol-mcp) (`https://aperturex.io/mcp/`, Streamable HTTP) | Search and fetch citation-ready Aperture Wallet product facts, security boundaries, supported mainnets, documented features, App Store releases, screen semantics, and complete Journal articles; no wallet, balance, credential, signing, or transaction access | None; public read-only knowledge only | `official` `crypto-wallet` `documentation` |
 | BuyWhere | [MCP server documentation](https://api.buywhere.ai) (`https://api.buywhere.ai/mcp`) | Product search, merchant comparison, and real-time pricing data across 9 Asian and US markets | API key (free tier available) | `community` `shopping` `commerce` |
