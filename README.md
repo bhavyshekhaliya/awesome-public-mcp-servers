@@ -133,6 +133,7 @@ connecting.
 
 ### Work and Productivity
 
+| Orbit by Noveum | [MCP connection guide](https://github.com/Noveum/orbit/blob/main/docs/mcp.md) (`https://orbit.noveum.ai/mcp`, Streamable HTTP) | Manage issues, projects, sprints, docs and files | Free Orbit account and workspace-scoped OAuth; no API key | `official` `project-management` `tasks` |
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
 | Asana | [MCP integration guide](https://developers.asana.com/docs/integrating-with-asanas-mcp-server) (`https://mcp.asana.com/v2/mcp`) | Work graph, tasks, projects, and planning workflows | Asana OAuth 2.0 (MCP app) | `official` `project-management` `tasks` |
