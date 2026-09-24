@@ -169,6 +169,7 @@ connecting.
 | Google Developer Knowledge | [MCP connection guide](https://developers.google.com/knowledge/mcp) (`https://developerknowledge.googleapis.com/mcp`, Streamable HTTP) | Search and retrieve official Google developer documentation, code samples, release notes, and grounded answers | Google Cloud OAuth or API key; project and service enablement required | `official` `documentation` `search` |
 | Microsoft Learn | [MCP server reference](https://learn.microsoft.com/en-us/training/support/mcp-developer-reference) (`https://learn.microsoft.com/api/mcp`, Streamable HTTP) | Search Microsoft Learn documentation, fetch pages, and find code samples | None for the public endpoint | `official` `documentation` `search` |
 | Perplexity | [MCP server documentation](https://docs.perplexity.ai/docs/getting-started/integrations/mcp-server) (`https://api.perplexity.ai/mcp`, Streamable HTTP) | Real-time web search, conversational answers, and advanced reasoning | Perplexity API key | `official` `web-search` `reasoning` |
+| Robot Speed | [MCP documentation](https://www.robot-speed.com/mcp) (`https://www.robot-speed.com/api/mcp`, Streamable HTTP) | SEO audits, Core Web Vitals, keywords, AI visibility, traffic, backlinks, and CMS publishing | 12 free tools without auth; OAuth for paid features | `official` `seo` `marketing` |
 | Tavily | [MCP server documentation](https://docs.tavily.com/documentation/mcp) (`https://mcp.tavily.com/mcp`, Streamable HTTP) | Real-time web search, web-page extraction, and site mapping | Tavily OAuth or API key | `official` `web-search` `extraction` |
 
 ### Browser and Automation
@@ -220,6 +221,7 @@ connecting.
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
 | Cloudflare API | [Managed MCP server documentation](https://developers.cloudflare.com/agents/model-context-protocol/cloudflare/servers-for-cloudflare/) (`https://mcp.cloudflare.com/mcp`) | DNS, Workers, R2, Zero Trust, and other Cloudflare API operations through search and execute tools | Cloudflare OAuth or scoped API token | `official` `cloud` `workers` |
+| Kleap | [MCP documentation](https://kleap.co/mcp) (`https://kleap.co/api/mcp`, Streamable HTTP) | Create, edit, publish, and maintain websites, apps, and internal tools via Kleap's hosted MCP | Kleap account (OAuth) | `official` `websites` `hosting` |
 | Vercel | [MCP server documentation](https://vercel.com/docs/agent-resources/vercel-mcp) (`https://mcp.vercel.com`) | Documentation search, project and deployment management, and deployment-log analysis | Vercel OAuth | `official` `hosting` `deployments` |
 
 ### Monitoring and Security
