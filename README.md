@@ -183,6 +183,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| Aident Loadout | [Docs](https://docs.aident.ai/loadout/overview) ([GitHub](https://github.com/Aident-AI/aident-skill); `https://loadout.aident.ai/mcp`, Streamable HTTP) | Connect Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one setup; credentials stay in Aident Vault with action audit logs | Aident account (OAuth); freemium / pay-as-you-go | `official` `integrations` `automation` |
 | Browserbase | [MCP server setup](https://docs.browserbase.com/integrations/mcp/setup) (`https://mcp.browserbase.com/mcp`, Streamable HTTP) | Browser navigation, interaction, screenshots, extraction, and Stagehand agent workflows | Browserbase API key; custom models may require a separate model key | `official` `browser` `automation` |
 | Zapier | [MCP client guide](https://help.zapier.com/hc/en-us/articles/36265392843917-Use-Zapier-MCP-with-your-client) (`https://mcp.zapier.com/api/v1/connect`) | Connect AI clients to actions across Zapier's 9,000+ app ecosystem | Zapier connection token (Bearer) | `official` `automation` `workflows` |
 
