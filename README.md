@@ -239,6 +239,7 @@ connecting.
 | --- | --- | --- | --- | --- |
 | Cloudflare API | [Managed MCP server documentation](https://developers.cloudflare.com/agents/model-context-protocol/cloudflare/servers-for-cloudflare/) (`https://mcp.cloudflare.com/mcp`) | DNS, Workers, R2, Zero Trust, and other Cloudflare API operations through search and execute tools | Cloudflare OAuth or scoped API token | `official` `cloud` `workers` |
 | Kleap | [MCP documentation](https://kleap.co/mcp) (`https://kleap.co/api/mcp`, Streamable HTTP) | Create, edit, publish, and maintain websites, apps, and internal tools via Kleap's hosted MCP | Kleap account (OAuth) | `official` `websites` `hosting` |
+| Shipvela | [Remote MCP setup](https://shipvela.com/integrations/codex) (`https://shipvela.com/mcp`, Streamable HTTP) | Create website projects, deploy supported GitHub repositories, and inspect deployment status, build logs and usage; publish consumes allowance | Shipvela account with OAuth S256 PKCE; Hobby free with 3 projects and 20 publishes/month, paid plans available | `official` `hosting` `deployments` |
 | Vercel | [MCP server documentation](https://vercel.com/docs/agent-resources/vercel-mcp) (`https://mcp.vercel.com`) | Documentation search, project and deployment management, and deployment-log analysis | Vercel OAuth | `official` `hosting` `deployments` |
 
 ### Monitoring and Security
