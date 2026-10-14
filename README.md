@@ -94,6 +94,7 @@ connecting.
 | OctoTrip | [Official source repository](https://github.com/octotrip/rental-cars) (`https://mcp.octotrip.app/rental-cars/mcp`, Streamable HTTP) | Search and compare rental cars with real-time pricing across multiple providers worldwide, grouped by SIPP category; one-way rentals supported | None (no account or API key) | `official` `travel` `rental-cars` |
 | Pocket Drives | [Official source repository](https://github.com/RevList/pocket-drives-mcp) (`https://pocketdrives.ai/mcp`, Streamable HTTP) | Search peer-to-peer luxury, exotic, and EV rentals from independent hosts; vehicle details, availability calendars, and quotes | None | `official` `travel` `rentals` |
 | TableJourney | [MCP server documentation](https://tablejourney.com/mcp) (`https://tablejourney.com/mcp`, Streamable HTTP) | Search 214 cities of editorially verified restaurants, cafes, markets and street food; food festivals with resolved dates; day plans; bookable food tours, stays and car hire | None (read-only, no account or key) | `official` `travel` `food` |
+| TerraLab MCP | [Connection documentation](https://terra-lab.ai/mcp) (`https://mcp.terra-lab.ai/mcp`, Streamable HTTP) | GeoAI tools for preparing geospatial data for QGIS and GIS workflows | None (no account or API key) | `official` `geospatial` `gis` |
 
 ### Finance and Commerce
 
