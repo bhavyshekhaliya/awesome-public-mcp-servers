@@ -253,6 +253,7 @@ connecting.
 | Grafana Cloud | [Cloud MCP server documentation](https://grafana.com/docs/grafana-cloud/ai-tools/mcp-servers/cloud-mcp/) (`https://mcp.grafana.com/mcp`) | Metrics, logs, dashboards, alerts, incidents, investigations, and other Grafana Cloud observability data | Grafana OAuth 2.1; Grafana Cloud role/permission and Assistant access required | `official` `observability` `metrics` |
 | New Relic | [MCP setup](https://docs.newrelic.com/docs/agentic-ai/mcp/setup/) (US `https://mcp.newrelic.com/mcp/`; EU `https://mcp.eu.newrelic.com/mcp/`, HTTP) | Observability discovery, NRQL/data access, alerting, incident response, performance analytics, and advanced analysis | New Relic OAuth or API key; region-specific endpoint; Preview | `official` `observability` `monitoring` |
 | Sentry | [MCP server documentation](https://mcp.sentry.dev/) (`https://mcp.sentry.dev/mcp`) | Error issues, events, traces, performance, projects, releases, and debugging workflows | Sentry OAuth | `official` `error-tracking` `observability` |
+| SolidPing | [MCP server documentation](https://docs.solidping.io/docs/features/mcp) (`https://solidping.io/api/v1/mcp`, Streamable HTTP) | Uptime checks and results, incidents, check types, check groups, maintenance windows, and status pages; stdio through the `sp mcp` CLI command; also self-hostable | SolidPing OAuth 2.1 or personal access token; free plan available | `official` `monitoring` `uptime` |
 
 ### Science and Computation
 
