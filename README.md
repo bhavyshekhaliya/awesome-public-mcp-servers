@@ -135,6 +135,7 @@ connecting.
 | Canva | [MCP documentation](https://www.canva.dev/docs/mcp/) (`https://mcp.canva.com/mcp`) | Design creation and editing, asset and brand management, library search, exports, and comments | Canva OAuth (per-user) | `official` `design` `assets` |
 | Figma | [Remote server setup](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/) (`https://mcp.figma.com/mcp`) | Design context, code generation, canvas editing, and FigJam | Figma account (OAuth) | `official` `design` `figjam` |
 | Miro | [MCP server documentation](https://developers.miro.com/docs/miro-mcp) (`https://mcp.miro.com/`) | Search and summarize boards, create diagrams, and add board content such as frames, cards, shapes, and tables | Miro OAuth | `official` `whiteboards` `collaboration` |
+| Playable Gift | [MCP connection guide](https://playablegift.com/agents) (`https://playablegift.com/mcp`, Streamable HTTP) | Create a personalized playable browser-game gift and share it with the recipient through a link. | None | `official` `games` `creative` |
 | Webflow | [MCP server documentation](https://developers.webflow.com/mcp/reference/how-it-works) (`https://mcp.webflow.com/mcp`) | Site authoring, CMS content, styles, components, variables, pages, assets, and Designer context | Webflow OAuth; the Bridge App is required for live Designer capabilities | `official` `website-builder` `design` |
 
 ### Work and Productivity
