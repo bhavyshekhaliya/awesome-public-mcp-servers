@@ -162,6 +162,7 @@ connecting.
 | --- | --- | --- | --- | --- |
 | ElevenLabs | [Official source repository](https://github.com/elevenlabs/elevenlabs-mcp) (`uvx elevenlabs-mcp`, stdio) | Text-to-speech, speech-to-text, voice cloning and design, sound effects, music, and voice agents | ElevenLabs API key | `official` `audio` `speech` |
 | Magic Hour | [Official MCP documentation](https://magichour.ai/mcp) (`https://mcp.magichour.ai/`, Streamable HTTP) | Generate and edit video, images, and audio; manage asynchronous generation projects and retrieve completed media | Magic Hour API key; generation uses account credits | `official` `video` `image` `audio` |
+| VideoGen | [Official MCP setup](https://videogen.io/videogen-mcp) (`https://mcp.videogen.io/mcp`, Streamable HTTP; `npx -y @videogen/mcp@2.2.1`, stdio) | Storyboard/script/voiceover/slideshow video workflows, media generation, project remixing, file uploads and MP4 export | VideoGen account and API access; OAuth or bearer API key; generation consumes paid credits | `official` `video` `image` `audio` |
 | Vimeo | [MCP server documentation](https://developer.vimeo.com/api/mcp-server) (Claude `https://mcp.vimeo.com/mcp`; ChatGPT `https://mcp.vimeo.com/sse`, remote HTTPS) | Search videos, inspect metadata, transcripts, chapters, comments, captions, and analytics; manage showcases and video metadata/privacy | Vimeo account and video library; plan-dependent capabilities; beta | `official` `video` `media` |
 
 ### Search and Research
