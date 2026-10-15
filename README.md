@@ -134,6 +134,7 @@ connecting.
 | --- | --- | --- | --- | --- |
 | Canva | [MCP documentation](https://www.canva.dev/docs/mcp/) (`https://mcp.canva.com/mcp`) | Design creation and editing, asset and brand management, library search, exports, and comments | Canva OAuth (per-user) | `official` `design` `assets` |
 | Figma | [Remote server setup](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/) (`https://mcp.figma.com/mcp`) | Design context, code generation, canvas editing, and FigJam | Figma account (OAuth) | `official` `design` `figjam` |
+| FlowchartAI | [MCP connection guide](https://flowchartai.org/mcp) (`https://flowchartai.org/api/mcp`, Streamable HTTP) | Generate and edit native flowcharts; save versions and export draw.io XML or JSON | FlowchartAI account; OAuth with PKCE or scoped API key; AI tasks use existing allowance or Credits | `official` `flowchart` `diagram` |
 | Miro | [MCP server documentation](https://developers.miro.com/docs/miro-mcp) (`https://mcp.miro.com/`) | Search and summarize boards, create diagrams, and add board content such as frames, cards, shapes, and tables | Miro OAuth | `official` `whiteboards` `collaboration` |
 | Webflow | [MCP server documentation](https://developers.webflow.com/mcp/reference/how-it-works) (`https://mcp.webflow.com/mcp`) | Site authoring, CMS content, styles, components, variables, pages, assets, and Designer context | Webflow OAuth; the Bridge App is required for live Designer capabilities | `official` `website-builder` `design` |
 
