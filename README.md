@@ -274,6 +274,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| ComputeFirst | [MCP documentation](https://computefirst.net/docs) (`https://computefirst.net/mcp`, Streamable HTTP) | Deterministic calculations, identifier validation, CSV/JSON transforms and date operations | None; free with [shared daily and rate limits](https://computefirst.net/docs#limits); hosted processing, with usage metadata and search-text logging ([privacy](https://computefirst.net/privacy)) | `official` `computation` `validation` `data` |
 | Wolfram Cloud MCP | [Remote MCP documentation](https://www.wolfram.com/artificial-intelligence/mcp/cloud/wolfram-mcp-cloud/) (`https://agenttools.wolfram.com/mcp`, Streamable HTTP) | Wolfram\|Alpha knowledge, Wolfram Language evaluation, and contextual computation and documentation tools | No API key required for Wolfram MCP Service; client/account access may apply | `official` `computation` `knowledge` |
 
 ## Legend
