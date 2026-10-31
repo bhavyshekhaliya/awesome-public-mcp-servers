@@ -274,6 +274,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| Lake Level MCP | [Official source repository](https://github.com/theluckystrike/lake-level-mcp) (hosted `https://lake-level-mcp.lipmichal.workers.dev/mcp`, Streamable HTTP; local `npx -y lake-level-mcp`, stdio) | Current elevation for 44 US lakes and reservoirs in 12 states from USGS, USACE, CDEC, Reclamation and TWDB gauges, with 24-hour / 7-day / 30-day change, seasonal guide curves, history series and comparison across lakes; every reading returns its source agency URL and as-of time | None (read-only, no account or key) | `official` `environment` `water-data` `usa` `streamable-http` |
 | Wolfram Cloud MCP | [Remote MCP documentation](https://www.wolfram.com/artificial-intelligence/mcp/cloud/wolfram-mcp-cloud/) (`https://agenttools.wolfram.com/mcp`, Streamable HTTP) | Wolfram\|Alpha knowledge, Wolfram Language evaluation, and contextual computation and documentation tools | No API key required for Wolfram MCP Service; client/account access may apply | `official` `computation` `knowledge` |
 
 ## Legend
