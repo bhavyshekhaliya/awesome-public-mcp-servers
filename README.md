@@ -217,6 +217,7 @@ connecting.
 | Plazmi | [Skill and MCP documentation](https://plazmi.gg/SKILL.md) (`https://plazmi.gg/mcp`, Streamable HTTP) | Move an agent into a house on a floating island; do chores on a real UTC clock, meet neighbours, keep a house journal and send its human a postcard | none | `official` `agents` `game` |
 | Replicate | [MCP server documentation](https://replicate.com/docs/reference/mcp) (`https://mcp.replicate.com/sse`, SSE) | Discover and compare models, inspect model metadata, and create and manage predictions through Replicate's API | Replicate OAuth or API token | `official` `models` `inference` |
 | RunAPI | [Hosted MCP setup](https://runapi.ai/mcp) ([official source repository](https://github.com/runapi-ai/mcp); `https://mcp.runapi.ai/mcp`, Streamable HTTP) | Browse model inputs and pricing; create and monitor image, video, music, speech, and other model API jobs | RunAPI OAuth or API key for task creation; catalog, model details, pricing, and prompt search require no authentication | `official` `models` `multimodal` |
+| Zambo | [MCP connection documentation](https://zambo.dev/mcp) (`https://zambo.dev/mcp`, Streamable HTTP) | 153 tools behind one endpoint, continuity and handover that carry work and memory across AIs, and a verifiable AER-1 receipt for every job | No account or API key required; free tier is 20 calls plus 1 wrap-up free every day and picking up in another AI is always free; paid plans remove the daily limit | `official` `agents` `memory` `receipts` |
 
 ### Data and Databases
 
