@@ -124,6 +124,7 @@ connecting.
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
 | Home Assistant | [MCP server integration](https://www.home-assistant.io/integrations/mcp_server/) (`https://<your_home_assistant_external_url>/api/mcp`, Streamable HTTP) | Read real-time entity context and control the home devices and entities exposed by the user | Home Assistant instance with the MCP integration; OAuth or long-lived access token; a public URL is required for cloud connectors | `official` `smart-home` `home-automation` |
+| Scento Perfume API | [Connection details](https://www.scento.com/developers#connect) (`https://www.scento.com/mcp`, Streamable HTTP) | Perfume notes, families, raw materials and similar scents | none | `official` `perfume` `lifestyle` |
 
 ### Files and Storage
 
