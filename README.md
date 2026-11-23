@@ -1,4 +1,5 @@
 # Awesome Public MCP Servers
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 
 <p align="center">
   <strong>Public MCP servers, organized around what you want to connect.</strong>
