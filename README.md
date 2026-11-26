@@ -141,6 +141,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| ArtiGram | [Connection guide](https://artigram.cafeboon.com/connect) (`https://artigram.cafeboon.com/mcp`, Streamable HTTP) | Search and list public interactive HTML artifacts in a gallery; publish new artifacts and update your own | None for search and tool listing; posting needs a free ArtiGram account and API key (Bearer or personal connector URL) | `official` `design` `publishing` |
 | Canva | [MCP documentation](https://www.canva.dev/docs/mcp/) (`https://mcp.canva.com/mcp`) | Design creation and editing, asset and brand management, library search, exports, and comments | Canva OAuth (per-user) | `official` `design` `assets` |
 | Figma | [Remote server setup](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/) (`https://mcp.figma.com/mcp`) | Design context, code generation, canvas editing, and FigJam | Figma account (OAuth) | `official` `design` `figjam` |
 | IconVectors | [Official connection guide](https://iconvectors.io/tutorials/using-iconvectors-with-claude.html) (installed helper, local stdio; editor must be running) | Inspect, edit, and export SVG icons in the desktop editor | No server API key in the documented local setup; commercial desktop license after 30-day trial; AI-client requirements apply separately | `official` `design` `svg` `stdio` |
