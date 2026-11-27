@@ -124,6 +124,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| BatchData | [Connection documentation](https://github.com/batchdataco/batchdata-mcp-server) (`https://mcp.batchdata.com`, Streamable HTTP) | U.S. property lookup, comparables, property search and lead lists, skip tracing, DNC/TCPA phone checks, and address verification and geocoding | BatchData account (commercial, usage-based); OAuth 2.1 sign-in, or a BatchData API token sent as a Bearer header for clients without OAuth | `official` `real-estate` `property-data` |
 | Home Assistant | [MCP server integration](https://www.home-assistant.io/integrations/mcp_server/) (`https://<your_home_assistant_external_url>/api/mcp`, Streamable HTTP) | Read real-time entity context and control the home devices and entities exposed by the user | Home Assistant instance with the MCP integration; OAuth or long-lived access token; a public URL is required for cloud connectors | `official` `smart-home` `home-automation` |
 
 ### Files and Storage
